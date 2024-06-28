@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to play with data
 - 💞️ I’m looking to collaborate on kaggle
 - 📫 How to reach me? On anveetpal12@gmail.com :)
-- 😄 Pronouns: Not yet
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like coding but not like to write code 😅😗
 
 <!---
