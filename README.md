@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anveetpal01
+- 👋 Hi, I’m Anveet Pal
 - 👀 I’m interested in playing with data
 - 🌱 I’m currently learning how to play with data
 - 💞️ I’m looking to collaborate on kaggle
